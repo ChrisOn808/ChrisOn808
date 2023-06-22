@@ -27,4 +27,3 @@ Here are some ideas to get you started:-->
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Stats
-(https://github-readme-stats.vercel.app/api?username=ChrisOn808)](https://github.com/ChrisOn808/github-readme-stats)
