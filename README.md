@@ -6,11 +6,11 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m a newborn baby here
-- 🌱 I’m currently learning SwiftUI
-- 👯 I’m open for lessons
+- 👶 I’m a newborn baby here
+- 🧠 I’m currently learning SwiftUI
+- 📚 I’m open for lessons
 - 📫 How to reach me: te.christopher01@gmail.com
-- ⚡ Fun fact: got more shoes than stockX
+- 🤓 Fun fact: got more shoes than stockX
 -----------------------------------------------
 
 ### Can do
